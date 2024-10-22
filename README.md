@@ -5,7 +5,7 @@ This is a portfolio template that you can use to showcase your work, especially 
 Looking for a game developer job, I needed a portfolio to present my work to recruiters. I found a lot of custom made portfolios, but no easy to use template unless I used Wordpress. Which was overkill to me because a static HTML/JS website would do fine.
 
 So i created my own using VueJS, keeping in mind that I wanted it tfo be easily customisable so other people can use this as a base to make their own. It's very simple, static, fast and responsive.
-
+f
 For a real world use case, check my portfolio: https://scheefer.me
 
 # How to use
