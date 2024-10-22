@@ -1,106 +1,51 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Sultans Of Sing", "img/projects/project-6-icon.png", `
+    new ProjectData("project-6", "Simple Drive", "img/projects/drive.png", `
     <div class="paragraph">
-      <strong>Sultans Of Sing</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
-      <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.
+      I designed and developed a Windows Forms app that integrates with AWS services. Users are able to create their own account and securely upload, download, and share files in the cloud.
             </div>
-            <div class="paragraph center">
-              <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
-          </div>
-
-          <div class="paragraph">
-            Main features :
-            <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
-            </ul>
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/eu_6SOVnN8g" frameborder="0" allowfullscreen></iframe>
+    </div>
+        <div class="paragraph center">
+              <div class="notice">
+                Source code available on <a href="https://github.com/aaronpostus/SimpleDrive" target="_blank">GitHub</a>.
+              </div>
         </div>
+    `, "#000000", false, true),
+    new ProjectData("project-7", "Network File Transfer Programs", "img/projects/networkinglabs.png", `
+    <div class="paragraph">
+I created four file transfer programs with Python that send files over the internet using UDP and TCP. I implemented an alternating-bit protocol that retransmits lost packets.
+</br>
+Lab 1: File Transfer </br>
+
+Lab 2: File Transfer via TCP </br>
+
+Lab 3: File Transfer via UDP </br>
+
+Lab 4: File Transfer via UDP (with dropped packets in both directions)            
+
+</div>
 
         <div class="paragraph center">
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
+              <div class="notice">
+                Source code available on <a href="https://github.com/aaronpostus/cse3461" target="_blank">GitHub</a>.
+              </div>
         </div>
-    `, "#c10606", false, true),
-    new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
+            <div class="paragraph center">
+
+            </div>`, "#000000"),
+    new ProjectData("project-8", "Toy Interpreter and Tokenizer", "img/projects/coreprogram.png", `
     <div class="paragraph">
-                <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
-            </div>
+I created an interpreter and tokenizer in Java for the toy language CORE. The interpreter is full-featured; it parses, pretty-prints, and executes code.
 
-            <div class="paragraph">
-              Main features :
-              <ul>
-              <li>Some stuff</li>
-              <li>Some great stuff</li>
-              <li>More awesome stuff</li>
-              <li>And then some</li>
-              </ul>
-          </div>
-
-            <div class="paragraph">
+        <div class="paragraph center">
               <div class="notice">
-                You can download and try the app for free or purchase it directly from <a href="http://www.somewbsite.com/" target="_blank">Some website</a>
+                Source code available on <a href="https://github.com/aaronpostus/CSE3341-PROJECT" target="_blank">GitHub</a>.
               </div>
-            </div>
+        </div>
 
             <div class="paragraph center">
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" /> 
-            </div>`, "#1ca1e2"),
-    new ProjectData("project-8", "The Art of Walking", "img/projects/project-8-icon.png", `
-    <div class="paragraph">
-                <strong>The Art of Walking</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-            </div>
-
-            <div class="paragraph center">
-              <a href="https://play.google.com/store/apps/details?id=someapp" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
-          </div>
-
-          <div class="paragraph">
-          Main features :
-          <ul>
-          <li>Some stuff</li>
-          <li>Some great stuff</li>
-          <li>More awesome stuff</li>
-          <li>And then some</li>
-          </ul>
-      </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>
-
-            <div class="paragraph center">
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-            </div>`),
-    new ProjectData("project-9", "Nikolable", "img/projects/project-9-icon.png", `
-     <div class="paragraph">
-                <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.
-            </div>
-
-            <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>`),
+            </div>`)
 ];

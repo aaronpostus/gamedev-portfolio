@@ -3,7 +3,7 @@
     <h1>Other stuff</h1>
 
     <div style="margin-bottom: 30px;">
-      And here are some other stuff I've made or heavily contributed to, which are totally different than the stuff from earlier.
+      These are other projects that I have worked on that aren't game-related.
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>
@@ -19,7 +19,7 @@ export default Vue.extend({
   components: {
     ProjectsList,
   },
-  data: function () {
+  data: function() {
     return {
       projects: otherProjectsData,
     };
