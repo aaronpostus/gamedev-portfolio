@@ -5,7 +5,7 @@
     <div class="paragraph">
       I am a software engineer currently working as an AR Software Engineer at
       <a href="https://www.trace3d.app/">Trace 3D</a> with a passion for
-      developing interactive media projects. I’ve led projects ranging from
+      developing interactive media applications. I’ve led projects ranging from
       immersive augmented reality experiences to 3D educational simulations. I
       enjoy working with multidisciplinary teams and have hands-on experience
       with Unity, C#, JavaScript, and Babylon.js. I am committed to strong
