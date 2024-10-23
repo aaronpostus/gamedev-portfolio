@@ -12,7 +12,7 @@
       programming practices and driven by a passion for crafting intuitive,
       engaging digital experiences.
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/AaronPost_Resume.pdf" target="_blank"
+        <a class="download-link" href="/d/AaronPostResume.pdf" target="_blank"
           ><i class="fa fa-download fa-lg fa-fw"></i>Resume PDF</a
         >
         <div style="clear:both"></div>
@@ -38,7 +38,7 @@
         <h3>I 🩵 Fitness</h3>
         <div>
           I love lifting heavy objects in my spare time. I've also been trying
-          to convince myself I enjoy running..
+          to convince myself I enjoy running.
         </div>
 
         <h3>I 💙 Film and TV</h3>

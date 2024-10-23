@@ -40,6 +40,7 @@ Helpers.preloadImages([
 
 <style lang="less">
 @import "./css/projects.less";
+@import "./css/jsonformat.css";
 @import "./css/variables.less";
 
 html,
