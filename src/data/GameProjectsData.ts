@@ -14,7 +14,7 @@ export default [
 <strong>Good Soup</strong> went through four key development milestones: a "Core Mechanics" whitebox, followed by alpha, beta, and gold iterations. Each release was thoroughly playtested, and I worked to integrate as much feedback as possible, with a focus on refining mechanics, game feel, intuitiveness, and art assets.
         </div>
         <div class="paragraph center">
-            <img src="img/projects/versionssouop.gif"></img>
+            <img class="pc-screenshot" src="img/projects/versionssouop.gif"></img>
         </div>
     <div class="paragraph center">
         <strong>Good Soup is coming soon to steam!</strong>
