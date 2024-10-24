@@ -34,6 +34,8 @@ export default [
     <div class="paragraph center">
     <img class="pc-screenshot" src="img/projects/litsgif (1).gif" alt="LITS demo" />
     <img class="pc-screenshot" src="img/projects/radiocontroller.gif" alt="Singing Addict Screenshot" />
+        <img class="pc-screenshot" src="img/projects/controllerfront.jpg" alt="LITS demo" />
+    <img class="pc-screenshot" src="img/projects/controllerwiring.jpg" alt="Singing Addict Screenshot" />
     </div>
     `, "#880808"),
     new ProjectData("project-3", "ClashCraft", "img/projects/clash.png", `
