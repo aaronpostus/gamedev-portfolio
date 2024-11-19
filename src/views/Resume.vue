@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-photo.png" alt="Photo of Aaron" />
     </div>
 
     <div style="clear:both"></div>
