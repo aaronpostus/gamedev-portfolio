@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>3D Projects</h1>
+    <h1>Game Projects</h1>
 
     <ProjectsList v-bind:projects="projects" />
   </div>

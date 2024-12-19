@@ -8,9 +8,6 @@ export default [
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/OPVhYqheEM8" frameborder="0" allowfullscreen></iframe>
-        <a href="https://store.steampowered.com/app/2965780/Good_Soup/" target="_blank">
-            <img alt="Wishlist on Steam" src="img/wishlist-steam.png" style="width: 300px;">
-        </a>
     </div>
 
         <div class="paragraph">
@@ -19,6 +16,9 @@ export default [
         <div class="paragraph center">
             <img class="pc-screenshot" src="img/projects/versionssouop.gif"></img>
         </div>
+    <div class="paragraph center">
+        <strong>Good Soup is coming soon to steam!</strong>
+    </div>
     `, "#800080", true),
     new ProjectData("project-2", "Lost in the Static", "img/projects/project-2-icon.png", `
     <div class="paragraph">

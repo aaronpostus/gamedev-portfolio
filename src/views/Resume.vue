@@ -3,7 +3,7 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I am a software engineer currently working at
+      I am a software engineer currently working as an AR Software Engineer at
       <a href="https://www.trace3d.app/">Trace 3D</a> with a passion for
       developing interactive media applications. I’ve led projects ranging from
       immersive augmented reality experiences to 3D educational simulations. I
