@@ -10,10 +10,10 @@
       </div>
 
       <div style="margin-top: 20px;">
-        I am currently working as a Software Engineering Intern for
+        I am currently working as an AR Software Engineer for
         <a href="https://www.trace3d.app/">Trace 3D</a> to make cutting-edge
         tools for their augmented reality app. Outside of work, I have worked on
-        <router-link to="/game-projects">many games</router-link> and
+        <router-link to="/game-projects">3D programs</router-link> and
         <router-link to="/other-projects">other software projects</router-link>.
         <br />
         <br />

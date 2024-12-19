@@ -17,7 +17,7 @@ const routes: Array<RouteConfig> = [
   },
   {
     path: '/game-projects',
-    name: 'Game Projects',
+    name: '3D Work',
     component: () => import(/* webpackChunkName: "about" */ '../views/GameProjects.vue')
   },
   {
