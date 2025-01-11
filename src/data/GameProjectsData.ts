@@ -7,7 +7,7 @@ export default [
     I led the design and development of a cozy point-and-click game called <strong>Good Soup</strong> where you play as a mischievous ghost, influencing the life of Amber, a culinary student. I built a behavior tree system that drives Amber’s actions, where player interactions directly impact the branches she follows. Your choices dynamically affect her mood, alter her decisions, and unlock different story outcomes.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/OPVhYqheEM8" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/ZxpT_qYhBYM?si=8c0U85ghGwJnQBA0" frameborder="0" allowfullscreen></iframe>
     </div>
 
         <div class="paragraph">
